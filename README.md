@@ -1,6 +1,6 @@
 # Software Drawing Package: Experimental
 
-Goal is to achive a 2D software rendering engine written in vanilla JavaScript. 
+Goal is to achieve a 2D software rendering engine written in vanilla JavaScript. 
 
 The obvious performance drawbacks will be mitigated as follows:
 - Caching mechanisms
@@ -9,16 +9,17 @@ The obvious performance drawbacks will be mitigated as follows:
 - JavaScript fastest approach
 
 Target Features:
-- Software resterizer for triangles, lines, and other shapes
+- Software rasterizer for triangles, lines, and other shapes
 - Able to read Fonts and render text
-- 8-bit sub pixel antialiazing
-- Fully support for transparency
+- 8-bit sub pixel antialiasing
+- Full support for transparency
 
-Extremly early stages..
+Extremely early stages...
 
 # Misc
 
 
 
 author: Victor Mario Diaz
+
 
